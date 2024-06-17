@@ -26,6 +26,8 @@ Algunas características de este proyecto son:
 
 Dentro la carpeta “Imagenes de su Funcionamiento” se encuentran algunas imágenes del proyecto en ejecución mostrando algunas funcionalidades tanto del cliente como del empleado y el administrador.	
 
+___________________________ English _____________________
+
 This project has some main functionalities of an application for sales of food products and especially beverages online (which also applies to physical sales), such as:
 - Sell alcohol (physically and online)
 - Sell sweets (physically and online)
